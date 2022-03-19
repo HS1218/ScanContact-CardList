@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">ScanContact</string>
+    <string name="title_home">MyCard</string>
+    <string name="title_dashboard">Contacts</string>
+    <string name="title_notifications">Settings</string>
+    <string-array name="name">
+        <item>Huang Shuo</item>
+        <item>Shuo Huang</item>
+        <item>Yellowbig</item>
+        <item>Huang Shuo</item>
+        <item>Shuo Huang</item>
+        <item>Yellowbig</item>
+        <item>Huang Shuo</item>
+        <item>Shuo Huang</item>
+        <item>Yellowbig</item>
+        <item>Huang Shuo</item>
+        <item>Shuo Huang</item>
+        <item>Yellowbig</item>
+    </string-array>
+
+    <string-array name="tel">
+        <item>12345678</item>
+        <item>87654321</item>
+        <item>88888888</item>
+        <item>12345678</item>
+        <item>87654321</item>
+        <item>88888888</item>
+        <item>12345678</item>
+        <item>87654321</item>
+        <item>88888888</item>
+        <item>12345678</item>
+        <item>87654321</item>
+        <item>88888888</item>
+    </string-array>
+
+    <string-array name="email">
+        <item>abcd@tsu.edu.cn</item>
+        <item>1234@pku.edu.cn</item>
+        <item>Ab123@cityu.edu.hk</item>
+        <item>abcd@tsu.edu.cn</item>
+        <item>1234@pku.edu.cn</item>
+        <item>Ab123@cityu.edu.hk</item>
+        <item>abcd@tsu.edu.cn</item>
+        <item>1234@pku.edu.cn</item>
+        <item>Ab123@cityu.edu.hk</item>
+        <item>abcd@tsu.edu.cn</item>
+        <item>1234@pku.edu.cn</item>
+        <item>Ab123@cityu.edu.hk</item>
+    </string-array>
+
+    <string-array name="add">
+        <item>Beijing</item>
+        <item>Beijing</item>
+        <item>HongKong</item>
+        <item>Beijing</item>
+        <item>Beijing</item>
+        <item>HongKong</item>
+        <item>Beijing</item>
+        <item>Beijing</item>
+        <item>HongKong</item>
+        <item>Beijing</item>
+        <item>Beijing</item>
+        <item>HongKong</item>
+
+    </string-array>
+</resources>
